@@ -1,0 +1,8 @@
+fr\lediamantrouge\actionbyip\model\Action.class
+fr\lediamantrouge\actionbyip\event\JoinEvent.class
+fr\lediamantrouge\actionbyip\Main.class
+fr\lediamantrouge\actionbyip\manager\ActionManager.class
+fr\lediamantrouge\actionbyip\enumeration\Type.class
+fr\lediamantrouge\actionbyip\manager\YamlConfigManager.class
+fr\lediamantrouge\actionbyip\manager\IActionManager.class
+fr\lediamantrouge\actionbyip\manager\IConfigManager.class

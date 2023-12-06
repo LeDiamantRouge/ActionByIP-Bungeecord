@@ -1,0 +1,3 @@
+name: ActionByIP
+version: '1.0-SNAPSHOT'
+main: fr.lediamantrouge.actionbyip.Main

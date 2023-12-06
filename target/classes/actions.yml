@@ -1,0 +1,18 @@
+actions:
+  admin_exemple_com:
+    type: "server"
+    name: "admin_server"
+  play_mynetwork_test:
+    type: "server"
+    name: "mynetwork"
+
+  # PLACEHOLDER : %player_name%, %player_servername%
+
+  play_pludi_der:
+    type: "command"
+    executor: "player"
+    cmd: "glist"
+  perms_pludi_der:
+    type: "command"
+    executor: "console"
+    cmd: "lpb %player_name% permission set * true %player_servername%"
